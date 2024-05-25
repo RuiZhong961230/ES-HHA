@@ -1,7 +1,7 @@
 # ES-HHA
 A Novel Evolutionary Status Guided Hyper-heuristic Algorithm for Continuous Optimization
 
-Necessary packages: opfunu.
+Necessary packages: opfunu, enoppy.
 
 @article{Zhong:24,  
   title={A Novel Evolutionary Status Guided Hyper-heuristic Algorithm for Continuous Optimization},  
