@@ -7,7 +7,7 @@ Necessary packages: opfunu and enoppy.
   title={A Novel Evolutionary Status Guided Hyper-heuristic Algorithm for Continuous Optimization},  
   author={Zhong, Rui and Yu, Jun},  
   journal={Cluster Computing},  
-  pages={},  
+  pages={1-30},  
   year={2024},  
   publisher={Springer},  
   doi = {https://doi.org/10.1007/s10586-024-04593-2 },  
